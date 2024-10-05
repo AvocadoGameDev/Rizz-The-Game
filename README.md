@@ -1,2 +1,2 @@
-# Rizz-The-Game
+# Rizz: The Game
 A game about rizz
